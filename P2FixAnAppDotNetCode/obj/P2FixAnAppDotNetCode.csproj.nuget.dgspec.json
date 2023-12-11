@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/marc/Documents/Cours/OCR/DotNetprojet2-main/P2FixAnAppDotNetCode/P2FixAnAppDotNetCode.csproj": {}
+    "C:\\Users\\Clementoss\\Source\\Repos\\ClementBartholome\\P2-Dotnet\\P2FixAnAppDotNetCode\\P2FixAnAppDotNetCode.csproj": {}
   },
   "projects": {
-    "/Users/marc/Documents/Cours/OCR/DotNetprojet2-main/P2FixAnAppDotNetCode/P2FixAnAppDotNetCode.csproj": {
+    "C:\\Users\\Clementoss\\Source\\Repos\\ClementBartholome\\P2-Dotnet\\P2FixAnAppDotNetCode\\P2FixAnAppDotNetCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/marc/Documents/Cours/OCR/DotNetprojet2-main/P2FixAnAppDotNetCode/P2FixAnAppDotNetCode.csproj",
+        "projectUniqueName": "C:\\Users\\Clementoss\\Source\\Repos\\ClementBartholome\\P2-Dotnet\\P2FixAnAppDotNetCode\\P2FixAnAppDotNetCode.csproj",
         "projectName": "P2FixAnAppDotNetCode",
-        "projectPath": "/Users/marc/Documents/Cours/OCR/DotNetprojet2-main/P2FixAnAppDotNetCode/P2FixAnAppDotNetCode.csproj",
-        "packagesPath": "/Users/marc/.nuget/packages/",
-        "outputPath": "/Users/marc/Documents/Cours/OCR/DotNetprojet2-main/P2FixAnAppDotNetCode/obj/",
+        "projectPath": "C:\\Users\\Clementoss\\Source\\Repos\\ClementBartholome\\P2-Dotnet\\P2FixAnAppDotNetCode\\P2FixAnAppDotNetCode.csproj",
+        "packagesPath": "C:\\Users\\Clementoss\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Clementoss\\Source\\Repos\\ClementBartholome\\P2-Dotnet\\P2FixAnAppDotNetCode\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/marc/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Clementoss\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -40,7 +42,11 @@
           "dependencies": {
             "Microsoft.AspNetCore.All": {
               "target": "Package",
-              "version": "[2.0.9, )"
+              "version": "[2.0.6, )"
+            },
+            "Microsoft.CodeAnalysis.Analyzers": {
+              "target": "Package",
+              "version": "[1.1.0, )"
             },
             "Microsoft.Extensions.Localization": {
               "target": "Package",
@@ -64,7 +70,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
