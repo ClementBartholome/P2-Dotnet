@@ -59,7 +59,6 @@ C:\Users\Clementoss\Source\Repos\ClementBartholome\P2-Dotnet\P2FixAnAppDotNetCod
 C:\Users\Clementoss\Source\Repos\ClementBartholome\P2-Dotnet\P2FixAnAppDotNetCode\obj\Debug\netcoreapp2.0\P2FixAnAppDotNetCode.Resources.Models.Order.fr.resources
 C:\Users\Clementoss\Source\Repos\ClementBartholome\P2-Dotnet\P2FixAnAppDotNetCode\obj\Debug\netcoreapp2.0\P2FixAnAppDotNetCode.Resources.Models.ViewModels.LanguageViewModel.en.resources
 C:\Users\Clementoss\Source\Repos\ClementBartholome\P2-Dotnet\P2FixAnAppDotNetCode\obj\Debug\netcoreapp2.0\P2FixAnAppDotNetCode.Resources.Models.ViewModels.LanguageViewModel.fr.resources
-C:\Users\Clementoss\Source\Repos\ClementBartholome\P2-Dotnet\P2FixAnAppDotNetCode\obj\Debug\netcoreapp2.0\P2FixAnAppDotNetCode.Resources.Models.ViewModels.Order.en.resources
 C:\Users\Clementoss\Source\Repos\ClementBartholome\P2-Dotnet\P2FixAnAppDotNetCode\obj\Debug\netcoreapp2.0\P2FixAnAppDotNetCode.Resources.Views.Cart.Index.en.resources
 C:\Users\Clementoss\Source\Repos\ClementBartholome\P2-Dotnet\P2FixAnAppDotNetCode\obj\Debug\netcoreapp2.0\P2FixAnAppDotNetCode.Resources.Views.Cart.Index.fr.resources
 C:\Users\Clementoss\Source\Repos\ClementBartholome\P2-Dotnet\P2FixAnAppDotNetCode\obj\Debug\netcoreapp2.0\P2FixAnAppDotNetCode.Resources.Views.Order.Completed.en.resources
@@ -82,3 +81,4 @@ C:\Users\Clementoss\Source\Repos\ClementBartholome\P2-Dotnet\P2FixAnAppDotNetCod
 C:\Users\Clementoss\Source\Repos\ClementBartholome\P2-Dotnet\P2FixAnAppDotNetCode\obj\Debug\netcoreapp2.0\fr\P2FixAnAppDotNetCode.resources.dll
 C:\Users\Clementoss\Source\Repos\ClementBartholome\P2-Dotnet\P2FixAnAppDotNetCode\obj\Debug\netcoreapp2.0\P2FixAnAppDotNetCode.genruntimeconfig.cache
 C:\Users\Clementoss\Source\Repos\ClementBartholome\P2-Dotnet\P2FixAnAppDotNetCode\bin\Debug\netcoreapp2.0\libman.json
+C:\Users\Clementoss\Source\Repos\ClementBartholome\P2-Dotnet\P2FixAnAppDotNetCode\obj\Debug\netcoreapp2.0\P2FixAnAppDotNetCode.Resources.Models.Order.en.resources
