@@ -67,10 +67,15 @@ namespace P2FixAnAppDotNetCode.Models
         /// </summary>
         public double GetAverageValue()
         {
-            if (GetCartLineList().Count == 0)
+            var cartLines = GetCartLineList();
+            if (cartLines.Count == 0)
                 return 0;
             else
-                return GetCartLineList().Average(x => x.Product.Price);
+            {
+                double totalValue = cartLines.Sum(x => x.Product.Price * x.Quantity);
+                int totalQuantity = cartLines.Sum(x => x.Quantity);
+                return totalValue / totalQuantity;
+            }
         }
 
         /// <summary>
