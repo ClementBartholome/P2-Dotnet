@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PnVwsojB1t5kSDxhqxezUTcMiQPjuBwGbmWGeyANN+HwgxS0KrF/JYqQW/lpbWF9GzLB8P+N6RCet5hkcpQYiQ==",
+  "dgSpecHash": "dCDoiMPUUFneD8x6Mq+hcUvMvkqzdu5xO84CJwtMRgUUCxKEXgq4iagCbg/w8i416w+Q+N7OYYTv9cKLW6TX+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Clementoss\\Source\\Repos\\ClementBartholome\\P2-Dotnet\\P2FixAnAppDotNetCode\\P2FixAnAppDotNetCode.csproj",
+  "projectFilePath": "C:\\Users\\Clementoss\\source\\repos\\ClementBartholome\\P2-Dotnet\\P2FixAnAppDotNetCode\\P2FixAnAppDotNetCode.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Clementoss\\.nuget\\packages\\libuv\\1.10.0\\libuv.1.10.0.nupkg.sha512",
     "C:\\Users\\Clementoss\\.nuget\\packages\\microsoft.applicationinsights\\2.4.0\\microsoft.applicationinsights.2.4.0.nupkg.sha512",
@@ -303,7 +303,7 @@
       "code": "NU1902",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Le package 'Microsoft.AspNetCore.All' 2.0.6 présente une vulnérabilité de gravité moyenne connue, https://github.com/advisories/GHSA-3m2r-q8x3-xmf7.",
+      "message": "Package 'Microsoft.AspNetCore.All' 2.0.6 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-3m2r-q8x3-xmf7",
       "libraryId": "Microsoft.AspNetCore.All",
       "targetGraphs": [
         ".NETCoreApp,Version=v2.0"
@@ -313,7 +313,7 @@
       "code": "NU1902",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Le package 'Microsoft.AspNetCore.All' 2.0.6 présente une vulnérabilité de gravité moyenne connue, https://github.com/advisories/GHSA-cgpw-2gph-2r9g.",
+      "message": "Package 'Microsoft.AspNetCore.All' 2.0.6 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-cgpw-2gph-2r9g",
       "libraryId": "Microsoft.AspNetCore.All",
       "targetGraphs": [
         ".NETCoreApp,Version=v2.0"
@@ -323,7 +323,7 @@
       "code": "NU1903",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Le package 'Microsoft.NETCore.App' 2.0.0 présente une vulnérabilité de gravité élevé(e) connue, https://github.com/advisories/GHSA-7mfr-774f-w5r9.",
+      "message": "Package 'Microsoft.NETCore.App' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-7mfr-774f-w5r9",
       "libraryId": "Microsoft.NETCore.App",
       "targetGraphs": [
         ".NETCoreApp,Version=v2.0"

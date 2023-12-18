@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Clementoss\\Source\\Repos\\ClementBartholome\\P2-Dotnet\\P2FixAnAppDotNetCode\\P2FixAnAppDotNetCode.csproj": {}
+    "C:\\Users\\Clementoss\\source\\repos\\ClementBartholome\\P2-Dotnet\\P2FixAnAppDotNetCode\\P2FixAnAppDotNetCode.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Clementoss\\Source\\Repos\\ClementBartholome\\P2-Dotnet\\P2FixAnAppDotNetCode\\P2FixAnAppDotNetCode.csproj": {
+    "C:\\Users\\Clementoss\\source\\repos\\ClementBartholome\\P2-Dotnet\\P2FixAnAppDotNetCode\\P2FixAnAppDotNetCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Clementoss\\Source\\Repos\\ClementBartholome\\P2-Dotnet\\P2FixAnAppDotNetCode\\P2FixAnAppDotNetCode.csproj",
+        "projectUniqueName": "C:\\Users\\Clementoss\\source\\repos\\ClementBartholome\\P2-Dotnet\\P2FixAnAppDotNetCode\\P2FixAnAppDotNetCode.csproj",
         "projectName": "P2FixAnAppDotNetCode",
-        "projectPath": "C:\\Users\\Clementoss\\Source\\Repos\\ClementBartholome\\P2-Dotnet\\P2FixAnAppDotNetCode\\P2FixAnAppDotNetCode.csproj",
+        "projectPath": "C:\\Users\\Clementoss\\source\\repos\\ClementBartholome\\P2-Dotnet\\P2FixAnAppDotNetCode\\P2FixAnAppDotNetCode.csproj",
         "packagesPath": "C:\\Users\\Clementoss\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Clementoss\\Source\\Repos\\ClementBartholome\\P2-Dotnet\\P2FixAnAppDotNetCode\\obj\\",
+        "outputPath": "C:\\Users\\Clementoss\\source\\repos\\ClementBartholome\\P2-Dotnet\\P2FixAnAppDotNetCode\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Clementoss\\AppData\\Roaming\\NuGet\\NuGet.Config",

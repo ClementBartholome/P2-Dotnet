@@ -82,3 +82,17 @@ C:\Users\Clementoss\Source\Repos\ClementBartholome\P2-Dotnet\P2FixAnAppDotNetCod
 C:\Users\Clementoss\Source\Repos\ClementBartholome\P2-Dotnet\P2FixAnAppDotNetCode\obj\Debug\netcoreapp2.0\P2FixAnAppDotNetCode.genruntimeconfig.cache
 C:\Users\Clementoss\Source\Repos\ClementBartholome\P2-Dotnet\P2FixAnAppDotNetCode\bin\Debug\netcoreapp2.0\libman.json
 C:\Users\Clementoss\Source\Repos\ClementBartholome\P2-Dotnet\P2FixAnAppDotNetCode\obj\Debug\netcoreapp2.0\P2FixAnAppDotNetCode.Resources.Models.Order.en.resources
+C:\Users\Clementoss\Source\Repos\ClementBartholome\P2-Dotnet\P2FixAnAppDotNetCode\bin\Debug\netcoreapp2.0\es\P2FixAnAppDotNetCode.resources.dll
+C:\Users\Clementoss\Source\Repos\ClementBartholome\P2-Dotnet\P2FixAnAppDotNetCode\obj\Debug\netcoreapp2.0\P2FixAnAppDotNetCode.Resources.Models.ViewModels.LanguageViewModel.es.resources
+C:\Users\Clementoss\Source\Repos\ClementBartholome\P2-Dotnet\P2FixAnAppDotNetCode\obj\Debug\netcoreapp2.0\es\P2FixAnAppDotNetCode.resources.dll
+C:\Users\Clementoss\source\repos\ClementBartholome\P2-Dotnet\P2FixAnAppDotNetCode\obj\Debug\netcoreapp2.0\P2FixAnAppDotNetCode.Resources.Controllers.OrderController.es.resources
+C:\Users\Clementoss\source\repos\ClementBartholome\P2-Dotnet\P2FixAnAppDotNetCode\obj\Debug\netcoreapp2.0\P2FixAnAppDotNetCode.Resources.Models.Order.es.resources
+C:\Users\Clementoss\source\repos\ClementBartholome\P2-Dotnet\P2FixAnAppDotNetCode\obj\Debug\netcoreapp2.0\P2FixAnAppDotNetCode.Resources.Views.Cart.Index.es.resources
+C:\Users\Clementoss\source\repos\ClementBartholome\P2-Dotnet\P2FixAnAppDotNetCode\obj\Debug\netcoreapp2.0\P2FixAnAppDotNetCode.Resources.Views.Order.Completed.es.resources
+C:\Users\Clementoss\source\repos\ClementBartholome\P2-Dotnet\P2FixAnAppDotNetCode\obj\Debug\netcoreapp2.0\P2FixAnAppDotNetCode.Resources.Views.Order.Index.es.resources
+C:\Users\Clementoss\source\repos\ClementBartholome\P2-Dotnet\P2FixAnAppDotNetCode\obj\Debug\netcoreapp2.0\P2FixAnAppDotNetCode.Resources.Views.Product.Index.es.resources
+C:\Users\Clementoss\source\repos\ClementBartholome\P2-Dotnet\P2FixAnAppDotNetCode\obj\Debug\netcoreapp2.0\P2FixAnAppDotNetCode.Resources.Views.Shared.Components.CartSummary.Default.es.resources
+C:\Users\Clementoss\source\repos\ClementBartholome\P2-Dotnet\P2FixAnAppDotNetCode\obj\Debug\netcoreapp2.0\P2FixAnAppDotNetCode.Resources.Views.Shared.Components.LanguageSelector.Default.es.resources
+C:\Users\Clementoss\source\repos\ClementBartholome\P2-Dotnet\P2FixAnAppDotNetCode\obj\Debug\netcoreapp2.0\en\P2FixAnAppDotNetCode.resources.cs
+C:\Users\Clementoss\source\repos\ClementBartholome\P2-Dotnet\P2FixAnAppDotNetCode\obj\Debug\netcoreapp2.0\es\P2FixAnAppDotNetCode.resources.cs
+C:\Users\Clementoss\source\repos\ClementBartholome\P2-Dotnet\P2FixAnAppDotNetCode\obj\Debug\netcoreapp2.0\fr\P2FixAnAppDotNetCode.resources.cs
