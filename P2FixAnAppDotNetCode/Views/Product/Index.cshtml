@@ -5,6 +5,15 @@
 }
 
 <br/>
+@{
+    var confirmationMessage = TempData["ConfirmationMessage"] as string;
+    if (!string.IsNullOrEmpty(confirmationMessage))
+    {
+        <div class="alert alert-success">
+            @confirmationMessage
+        </div>
+    }
+}
 <div id="panel-body">
     <table class="table table-bordered table-striped table-sm">
         <thead>

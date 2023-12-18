@@ -32,6 +32,7 @@ namespace P2FixAnAppDotNetCode.Controllers
             {
                 order.Lines = (_cart as Cart)?.Lines.ToArray();
                 _orderService.SaveOrder(order);
+                TempData["ConfirmationMessage"] = _localizer["ConfirmationMessage"].Value;
                 return RedirectToAction("Index", "Product");
             }
             else
