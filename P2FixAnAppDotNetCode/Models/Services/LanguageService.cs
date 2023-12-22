@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using System.Collections.Generic;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Localization;
 
 namespace P2FixAnAppDotNetCode.Models.Services
@@ -22,24 +23,22 @@ namespace P2FixAnAppDotNetCode.Models.Services
         /// </summary>
         public string SetCulture(string language)
         {
-            string culture;
-            switch(language)
+            var cultureMap = new Dictionary<string, string>
             {
-                case "English":
-                    culture = "en";
-                    break;
-                case "French":
-                    culture = "fr";
-                    break;
-                case "Spanish":
-                    culture = "es";
-                    break;
-                default:
-                    culture = "en";
-                    break;
+                { "English", "en" },
+                { "French", "fr" },
+                { "Spanish", "es" }
+            };
+
+            string culture;
+            if (cultureMap.TryGetValue(language, out culture))
+            {
+                return culture;
             }
-           
-            return culture;
+            else
+            {
+                return "en"; // default culture
+            }
         }
 
         /// <summary>
