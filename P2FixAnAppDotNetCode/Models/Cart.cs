@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 
 namespace P2FixAnAppDotNetCode.Models
@@ -29,6 +30,11 @@ namespace P2FixAnAppDotNetCode.Models
         /// </summary>//
         public void AddItem(Product product, int quantity)
         {
+            if (product == null)
+            {
+                throw new ArgumentNullException(nameof(product), "Product cannot be null");
+            }
+
             List<CartLine> cartLines = GetCartLineList();
 
             CartLine line = cartLines
@@ -48,8 +54,22 @@ namespace P2FixAnAppDotNetCode.Models
         /// <summary>
         /// Removes a product form the cart
         /// </summary>
-        public void RemoveLine(Product product) =>
-            GetCartLineList().RemoveAll(l => l.Product.Id == product.Id);
+        public void RemoveLine(Product product)
+        {
+            if (product == null)
+            {
+                throw new ArgumentNullException(nameof(product), "Product cannot be null");
+            }
+
+            List<CartLine> cartLines = GetCartLineList();
+
+            if (cartLines.All(l => l.Product.Id != product.Id))
+            {
+                throw new ArgumentException("Product not found in cart", nameof(product));
+            }
+
+            cartLines.RemoveAll(l => l.Product.Id == product.Id);
+        }
 
         /// <summary>
         /// Get total value of a cart
@@ -85,9 +105,13 @@ namespace P2FixAnAppDotNetCode.Models
         {
             var product = GetCartLineList().FirstOrDefault(p => p.Product.Id == productId);
             if (product != null)
+            {
                 return product.Product;
+            }
             else
-                return null;
+            {
+                throw new ArgumentException($"Product with id {productId} not found in cart", nameof(productId));
+            }
         }
 
         /// <summary>
@@ -95,6 +119,11 @@ namespace P2FixAnAppDotNetCode.Models
         /// </summary>
         public CartLine GetCartLineByIndex(int index)
         {
+            if (index < 0 || index >= Lines.Count())
+            {
+                throw new ArgumentOutOfRangeException(nameof(index), "Index is out of range");
+            }
+
             return Lines.ToArray()[index];
         }
 

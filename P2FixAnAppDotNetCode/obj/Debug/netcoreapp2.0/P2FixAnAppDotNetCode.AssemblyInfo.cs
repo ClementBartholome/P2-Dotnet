@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("P2FixAnAppDotNetCode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b10edbd9c5f14b4e18a3a87a3309a2b4546834e9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdf1b852a2fb97e224041957c33091bcde659fd4")]
 [assembly: System.Reflection.AssemblyProductAttribute("P2FixAnAppDotNetCode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("P2FixAnAppDotNetCode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
